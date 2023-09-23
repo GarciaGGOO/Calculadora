@@ -12,7 +12,7 @@
     <section id="sobre">
         <h2>Sobre</h2>
         <p>Avaliação Continuada 1 da disciplina de Qualidade e Testes de Software, Facens.</p>
-        <p>O objetivo deste projeto é fazer uma calculadora simples em Java que pode somar, subtrair, multiplicar, dividir e ser testada com o JUnit 5</p>
+        <p>Neste projeto, o foco central reside na criação de uma calculadora Java funcional, enquanto se dedica atenção especial à garantia de qualidade e confiabilidade do código desenvolvido. Paralelamente, há o objetivo de aprimorar o conhecimento em práticas essenciais do GitHub, tais como a criação de branches e repositórios, para facilitar o desenvolvimento colaborativo e o controle de versões.</p>
     </section>
     <section id="tecnologias">
         <h2>Tecnologias</h2>
@@ -33,6 +33,11 @@
     <section id="autor">
         <h2>Autor</h2>
         <p>Guilherme Garcia Ortega de Oliveira</p>
+    </section>
+    </section>
+    <section id="pre-requisitos">
+        <h2>Nota</h2>
+        <p>Eu aprendi a necessidade do controle de versões, mas ainda falta aprender a colocá-lo em prática.</p>
     </section>
 </body>
 </html>

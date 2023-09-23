@@ -12,7 +12,7 @@
     <section id="sobre">
         <h2>Sobre</h2>
         <p>Avaliação Continuada 1 da disciplina de Qualidade e Testes de Software, Facens.</p>
-        <p>O objetivo deste projeto é fazer uma calculadora simples em Java que pode somar, subtrair, multiplicar, dividir e ser testada com o JUnit 5</p>
+        <p>O foco principal deste projeto é assegurar a qualidade e confiabilidade do código Java através da realização de testes de unidade automatizados com o JUnit 5. Isso implica na criação de casos de teste para verificar o funcionamento correto de partes específicas do código, além de proporcionar aprendizado em ações básicas no GitHub, como a criação de branches e repositórios.</p>
     </section>
     <section id="tecnologias">
         <h2>Tecnologias</h2>
